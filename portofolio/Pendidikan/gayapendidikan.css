@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.navbar-toggler{
+    border-color: black;
+}
+
+.container{
+    padding-top: 100px;
+}
+
+.judul{
+    position: absolute;
+    width: 832px;
+    height: 71px;
+    left: 304px;
+    top: 100px;
+}
+
+.kedua{
+    padding-top: 100px;
+}
+
+.ketiga{
+    padding-top: 100px;
+}
+
+.blog-footer {
+
+    position: relative;
+    width: 376px;
+    top: 50px;
+
+    /* Button - bold 14 (18, 0.3px) */
+
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3px;
+
+    color: #000000;
+}

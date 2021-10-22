@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+.container{
+    padding-top: 100px;
+}
+
+.judul{
+    position: absolute;
+    width: 832px;
+    height: 71px;
+    left: 304px;
+    top: 100px;
+}
+
+.kedua{
+    padding-top: 100px;
+}
+
+.ketiga{
+    padding-top: 100px;
+}
